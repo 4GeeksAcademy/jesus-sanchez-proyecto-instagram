@@ -1,0 +1,165 @@
+body{
+    width: 800px;
+    margin: auto;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+
+}
+
+.cuestagram{
+    display: flex; 
+    background-color: aqua;
+    height: 40px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+#celda-1{
+
+   width: 33%; 
+   background-color: aqua;
+
+}
+
+#celda-2{
+
+   width: 33%; 
+   background-color: rgb(136, 160, 160);
+
+}
+
+#celda-3{
+
+   width: 33%; 
+   background-color: rgb(201, 246, 169);
+
+}
+
+#celda-4{
+
+   width: 33%; 
+   background-color: rgb(181, 81, 193);
+
+}
+
+.titulo1{
+    display: flex;
+    margin: auto;    
+    background-color: #d0dfe8;  
+    color: rgb(0, 0, 0);
+
+}
+
+.titulo1 img{
+
+width: 45px;
+margin-right: 10px;
+
+}
+
+.foto1 img{
+width: 800px;
+    
+}
+
+.foto1 {
+    text-align: left;
+    background-color: #d0dfe8;
+    margin-bottom: 20px;
+
+}
+
+.foto1 like-button{
+
+.like-button {
+  /* a varias cajas se le puede aplicar un solo estilo css */
+  position: relative; /* Necesario para posicionar los pseudo-elementos */
+  padding: 10px 20px;
+  border: 1px solid #ccc;
+  background-color: #f0f0f0;
+  cursor: pointer;
+  font-size: 1em;
+}
+
+}
+
+.titulo2{
+    display: flex;
+    margin-top: 20px;    
+    background-color: #1d597f;  
+    color: rgb(0, 0, 0);
+
+}
+
+.titulo2 img{
+
+width: 45px;
+margin-right: 10px;
+
+}
+
+.foto2 img{
+width: 800px;
+    
+}
+
+.foto2 {
+    text-align: left;
+    background-color: #d0dfe8;
+   
+
+}
+
+.titulo3{
+    display: flex;
+    margin-top: 20px;    
+    background-color: #cdd0d2;  
+    color: rgb(0, 0, 0);
+
+}
+
+.titulo3 img{
+
+width: 45px;
+margin-right: 10px;
+
+}
+
+.foto3 img{
+width: 800px;
+    
+}
+
+.foto3 {
+    text-align: left;
+    background-color: #d0dfe8;
+   
+
+}
+
+.titulo4{
+    display: flex;
+    margin-top: 20px;    
+    background-color: #9d8295;  
+    color: rgb(0, 0, 0);
+
+}
+
+.titulo4 img{
+
+width: 45px;
+margin-right: 10px;
+
+}
+
+.foto4 img{
+width: 800px;
+    
+}
+
+.foto4 {
+    text-align: left;
+    background-color: #d0dfe8;
+   margin-bottom: 40px;
+
+}
